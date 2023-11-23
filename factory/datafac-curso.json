@@ -1,0 +1,9 @@
+{
+	"name": "datafac-curso",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18a23d5c-493d-4c19-babc-37f53cc22464",
+		"tenantId": "8e672a06-4986-40f8-b64e-f3708aa35fbb"
+	}
+}
